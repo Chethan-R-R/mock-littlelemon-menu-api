@@ -1,0 +1,44 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "title": "Greek Salad",
+      "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
+      "price": "10",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wellplated.com%2Fgreek-salad%2F&psig=AOvVaw3mT7Mk3R4gJVzu0fBmDmex&ust=1696930234186000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCHn4fV6IEDFQAAAAAdAAAAABAE",
+      "category": "starters"
+    },
+    {
+      "id": 2,
+      "title": "Lemon Desert",
+      "description": "Traditional homemade Italian Lemon Ricotta Cake.",
+      "price": "10",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.thereciperebel.com%2Flemon-lush-dessert%2F&psig=AOvVaw3_t7bAd6CB13jdCfPW-UCb&ust=1696930282524000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCBh4DV6IEDFQAAAAAdAAAAABAR",
+      "category": "desserts"
+    },
+    {
+      "id": 3,
+      "title": "Grilled Fish",
+      "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
+      "price": "10",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.licious.in%2Fblog%2Frecipe%2Fhealthy-grilled-fish-recipe&psig=AOvVaw1QmuC9716XACXqnJoNVOCz&ust=1696930328212000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiB27rV6IEDFQAAAAAdAAAAABAE",
+      "category": "mains"
+    },
+    {
+      "id": 4,
+      "title": "Pasta",
+      "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chili, garlic, basil & salted ricotta cheese.",
+      "price": "10",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twopeasandtheirpod.com%2Flemon-ricotta-pasta%2F&psig=AOvVaw1c9ixPLeTg_kW9OkDoyk-8&ust=1696930370822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi65MLV6IEDFQAAAAAdAAAAABAE",
+      "category": "mains"
+    },
+    {
+      "id": 5,
+      "title": "Bruschetta",
+      "description": "Oven-baked bruschetta stuffed with tomatoes and herbs.",
+      "price": "10",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvegecravings.com%2Ftomato-basil-bruschetta-recipe%2F&psig=AOvVaw167L4ISpN0S77QxqoPSj4v&ust=1696930476338000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICeh8vV6IEDFQAAAAAdAAAAABAE",
+      "category": "starters"
+    }
+  ]
+} 
