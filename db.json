@@ -5,7 +5,7 @@
       "title": "Greek Salad",
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": "10",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wellplated.com%2Fgreek-salad%2F&psig=AOvVaw3mT7Mk3R4gJVzu0fBmDmex&ust=1696930234186000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMCHn4fV6IEDFQAAAAAdAAAAABAE",
+      "image": "https://www.wellplated.com/wp-content/uploads/2022/05/Greek-Salad-Recipe-Easy.jpg",
       "category": "starters"
     },
     {
@@ -29,7 +29,7 @@
       "title": "Pasta",
       "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chili, garlic, basil & salted ricotta cheese.",
       "price": "10",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twopeasandtheirpod.com%2Flemon-ricotta-pasta%2F&psig=AOvVaw1c9ixPLeTg_kW9OkDoyk-8&ust=1696930370822000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi65MLV6IEDFQAAAAAdAAAAABAE",
+      "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/05/Lemon-Ricotta-Pasta-7.jpg",
       "category": "mains"
     },
     {
@@ -37,7 +37,7 @@
       "title": "Bruschetta",
       "description": "Oven-baked bruschetta stuffed with tomatoes and herbs.",
       "price": "10",
-      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fvegecravings.com%2Ftomato-basil-bruschetta-recipe%2F&psig=AOvVaw167L4ISpN0S77QxqoPSj4v&ust=1696930476338000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICeh8vV6IEDFQAAAAAdAAAAABAE",
+      "image": "https://vegecravings.com/wp-content/uploads/2016/07/tomato-basil-bruschetta-recipe-step-by-step-instructions-10.jpg.webp",
       "category": "starters"
     }
   ]
