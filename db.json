@@ -6,15 +6,15 @@
       "description": "The famous greek salad of crispy lettuce, peppers, olives, our Chicago.",
       "price": "10",
       "image": "https://www.wellplated.com/wp-content/uploads/2022/05/Greek-Salad-Recipe-Easy.jpg",
-      "category": "starters"
+      "category": "Salads"
     },
     {
       "id": 2,
-      "title": "Lemon Desert",
+      "title": "Lemon Dessert",
       "description": "Traditional homemade Italian Lemon Ricotta Cake.",
       "price": "10",
       "image": "https://www.mybakingaddiction.com/wp-content/uploads/2023/07/bite-from-layered-lemon-dessert-800x1200.jpg",
-      "category": "desserts"
+      "category": "Desserts"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil.",
       "price": "10",
       "image": "https://www.saveur.com/uploads/2019/09/26/16-220816-PAMU-PESCADO_EMBARAZADO-018-scaled.jpg?auto=webp&auto=webp&optimize=high&quality=70&width=1440",
-      "category": "mains"
+      "category": "Mains"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "description": "Penne with fried aubergines, cherry tomatoes, tomato sauce, fresh chili, garlic, basil & salted ricotta cheese.",
       "price": "10",
       "image": "https://www.twopeasandtheirpod.com/wp-content/uploads/2023/05/Lemon-Ricotta-Pasta-7.jpg",
-      "category": "mains"
+      "category": "Mains"
     },
     {
       "id": 5,
@@ -38,7 +38,47 @@
       "description": "Oven-baked bruschetta stuffed with tomatoes and herbs.",
       "price": "10",
       "image": "https://vegecravings.com/wp-content/uploads/2016/07/tomato-basil-bruschetta-recipe-step-by-step-instructions-10.jpg.webp",
-      "category": "starters"
+      "category": "Appetizers"
+    },
+    {
+      "id": 6,
+      "title": "Onion Rings",
+      "description": "Crispy onion rings served with a tangy dipping sauce.",
+      "price": "8",
+      "image": "https://www.seriouseats.com/thmb/BQqKZv6sZFAbyfPWT8K8g4_w9fA=/6107x4071/filters:no_upscale():max_bytes(150000):strip_icc()/20200612-onion-rings-vicky_wasik-3-159-08e3ac0df67c426fa3f5a045e5ef1d8f.jpg",
+      "category": "Starters"
+    },
+    {
+      "id": 7,
+      "title": "Chicken Alfredo",
+      "description": "Creamy fettuccine Alfredo with grilled chicken breast.",
+      "price": "12",
+      "image": "https://www.cookingclassy.com/wp-content/uploads/2019/01/fettuccine-alfredo-13-768x1152.jpg",
+      "category": "Mains"
+    },
+    {
+      "id": 8,
+      "title": "Margarita Pizza",
+      "description": "Classic margarita pizza with tomato, mozzarella, and basil.",
+      "price": "11",
+      "image": "https://www.acouplecooks.com/wp-content/uploads/2021/01/Margherita-Pizza-003.jpg",
+      "category": "Mains"
+    },
+    {
+      "id": 9,
+      "title": "Chocolate Cake",
+      "description": "Rich and decadent chocolate cake with a fudge topping.",
+      "price": "9",
+      "image": "https://www.lifeloveandsugar.com/wp-content/uploads/2019/06/Chocolate-Cake-18.jpg",
+      "category": "Desserts"
+    },
+    {
+      "id": 10,
+      "title": "Iced Tea",
+      "description": "Refreshing iced tea with lemon slices.",
+      "price": "3",
+      "image": "https://www.thespruceeats.com/thmb/uT3bdO0M6PKgZgEohtp2CtVN9f8=/5000x3333/smart/filters:no_upscale()/iced-tea-iced-tea-in-glass-with-lemon-slices-2508-572ac72e5f9b589e34b2a7c6.jpg",
+      "category": "Beverages"
     }
   ]
-} 
+}
